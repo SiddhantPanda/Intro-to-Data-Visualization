@@ -1,1 +1,2 @@
-
+This is the complete code for using one of the few Data Visualization techniques in the Titanic dataset.
+The dataset is present in the 'Data' folder.
